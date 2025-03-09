@@ -6,8 +6,8 @@
 
   <a href="http://www.linkedin.com/in/neha-govekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:neha.Govekar@utdallas.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://medium.com/@yourmedium"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://www.kaggle.com/yourkaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+ <!-- <a href="https://medium.com/@yourmedium"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
+  <a href="[https://www.kaggle.com/nehasgovekar]"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
   
 </div>
 
@@ -60,13 +60,13 @@ me.say_hi()
 
 ## 📋 This Week's To-Do List
 ```
-Monday    [✓] Deploy RAG model for UT Dallas Information Assistant
+Monday    [✓] README, SQL 5, PANDAS 1, ML PLAYSTART
 Tuesday   [✓] Complete 5 SQL practice problems on LeetCode
 Wednesday [✓] Read research paper on Large Language Models
-Thursday  [✓] Build interactive dashboard for Airbnb project
-Friday    [✓] Interview prep: System design for data pipelines
-Weekend   [ ] Contribute to open-source data science project
-          [ ] Write Medium article on NLP techniques
+Thursday  [✓] Understand how to work on kAGGLE
+Friday    [✓] Interview prep: BASICS FIRST
+Weekend   [ ] COMMIT THE PROJECTS ON GITHUB
+          [ ] Write Medium article on one thing I learnt
 ```
 
 ## 📊 My GitHub Stats
