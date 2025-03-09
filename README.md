@@ -68,7 +68,7 @@ Friday    [✓] Interview prep: BASICS FIRST
 Weekend   [ ] COMMIT THE PROJECTS ON GITHUB
           [ ] Write Medium article on one thing I learnt
 ```
-
+<!--
 ## 📊 My GitHub Stats
 
 <div align="center">
@@ -90,6 +90,7 @@ Weekend   [ ] COMMIT THE PROJECTS ON GITHUB
   </a>
   
 </div>
+-->
 
 ## 💫 Daily Mood
 ```css
