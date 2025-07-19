@@ -58,16 +58,7 @@ me.say_hi()
   
 </div>
 
-## 📋 This Week's To-Do List
-```
-Monday    [✓] README, SQL 5, PANDAS 1, ML PLAYSTART
-Tuesday   [✓] Complete 5 SQL practice problems on LeetCode
-Wednesday [✓] Read research paper on Large Language Models
-Thursday  [✓] Understand how to work on kAGGLE
-Friday    [✓] Interview prep: BASICS FIRST
-Weekend   [ ] COMMIT THE PROJECTS ON GITHUB
-          [ ] Write Medium article on one thing I learnt
-```
+
 <!--
 ## 📊 My GitHub Stats
 
