@@ -68,3 +68,23 @@ learning_obsessions:
   - "Real-time ML inference optimization"
   - "Product metrics and experimentation frameworks"
   - "Distributed training for large language models"
+
+const currentFocus = {
+  technical: [
+    "Building robust ML pipelines that don't break at 3 AM",
+    "Optimizing inference latency for real-time predictions",
+    "Creating comprehensive model monitoring systems",
+    "Implementing proper A/B testing for ML models"
+  ],
+  
+  product: [
+    "Translating business problems into ML solutions",
+    "Measuring actual impact of ML models on KPIs",
+    "Building ML products that users actually want to use",
+    "Bridging the communication gap between data science and product teams"
+  ],
+  
+  philosophy: "Code is temporary, impact is permanent. Ship fast, measure everything, iterate constantly."
+}
+
+console.log("🎯", currentFocus.philosophy);
