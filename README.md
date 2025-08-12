@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=300&section=header&text=Neha%20Govekar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20💖%20Product-Focused%20Data%20Scientist%20💖%20MLOps%20Enthusiast&descAlignY=55&descAlign=62&fontColor=d6ace6)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=300&section=header&text=Neha%20Govekar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%20Product-Focused%20Data%20Scientist%20%20MLOps%20Enthusiast&descAlignY=55&descAlign=62&fontColor=d6ace6)
 
   <a href="http://www.linkedin.com/in/neha-govekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:neha.Govekar@utdallas.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
