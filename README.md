@@ -10,7 +10,7 @@
  
 </div>
 
-## 🚀 About Me  
+##  About Me  
 ```python
 class MLEngineer:
    def __init__(self):
@@ -46,3 +46,25 @@ class MLEngineer:
 me = MLEngineer()
 print(me.my_philosophy())
 print(f"🎯 Focus: {me.current_focus()}")
+
+current_projects:
+  production_rag_system:
+    description: "Scalable RAG pipeline for manufacturing predictive maintenance"
+    stack: ["Python", "LangChain", "Pinecone", "FastAPI", "Docker"]
+    metrics: "20% reduction in unplanned downtime"
+    
+  ml_monitoring_dashboard:
+    description: "Real-time model performance tracking with automated alerts"
+    stack: ["Streamlit", "MLflow", "Prometheus", "Grafana"]
+    impact: "Reduced model drift detection time from weeks to hours"
+    
+  feature_engineering_pipeline:
+    description: "Automated feature store with real-time and batch processing"
+    stack: ["Apache Spark", "Delta Lake", "Feast", "Kubernetes"]
+    status: "In development - targeting 10x faster feature deployment"
+
+learning_obsessions:
+  - "LLMOps and prompt engineering at scale"
+  - "Real-time ML inference optimization"
+  - "Product metrics and experimentation frameworks"
+  - "Distributed training for large language models"
