@@ -6,7 +6,7 @@
 
   <a href="http://www.linkedin.com/in/neha-govekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:neha.Govekar@utdallas.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.kaggle.com/nehasgovekar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+  <a href="https://www.kaggle.com/nehagovekar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
   
 </div>
 
@@ -99,9 +99,9 @@ print(f"🎯 Focus: {me.current_focus()}")
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehasgovekar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehagovekar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehasgovekar&layout=compact&langs_count=8&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehagovekar&layout=compact&langs_count=8&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </div>
 
 ## 🌺 What I'm Shipping Now
