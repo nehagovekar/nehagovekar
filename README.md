@@ -96,14 +96,6 @@ print(f"🎯 Focus: {me.current_focus()}")
   
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehagovekar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehagovekar&layout=compact&langs_count=8&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-</div>
-
 ## 🌺 What I'm Shipping Now
 
 ```yaml
